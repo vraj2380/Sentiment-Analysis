@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment analysis using Azure 
+Sentiment analysis using Azure on Airlines review data.
